@@ -1,3 +1,11 @@
+# 4 I kick you off the hill. I am King!!
+
+# 3 I swing my baseball bat and hit you off the hill. I am King!
+
+# 2 I push you off the hill. I am king now!
+
+# 1 King of the Hill
+
 # Rebase Workshop
 
 CONTENTS OF THIS FILE
@@ -20,19 +28,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 RECOMMENDED MODULES
 -------------------
-- Eget nunc 
-- Scelerisque viverra mauris 
-- Vulputate enim 
-- Nulla aliquet 
+- Eget nunc
+- Scelerisque viverra mauris
+- Vulputate enim
+- Nulla aliquet
 - Porttitor lacus
 
 INSTALLATION
 ------------
-1. Eget duis at tellus at urna condimentum mattis pellentesque. 
-2. Ultricies mi quis hendrerit dolor magna. 
-3. Montes nascetur ridiculus mus mauris. 
-4. Accumsan tortor posuere ac ut consequat semper. 
-5. Id semper risus in hendrerit gravida rutrum. 
+1. Eget duis at tellus at urna condimentum mattis pellentesque.
+2. Ultricies mi quis hendrerit dolor magna.
+3. Montes nascetur ridiculus mus mauris.
+4. Accumsan tortor posuere ac ut consequat semper.
+5. Id semper risus in hendrerit gravida rutrum.
 6. Vel facilisis volutpat est velit egestas dui id.
 
 CONFIGURATION
