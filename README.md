@@ -1,3 +1,5 @@
+# 4 I kick you off the hill. I am King!!
+
 # 3 I swing my baseball bat and hit you off the hill. I am King!
 
 # 2 I push you off the hill. I am king now!
